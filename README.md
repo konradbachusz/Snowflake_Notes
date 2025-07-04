@@ -2,6 +2,25 @@
 
 This repository contains a collection of SQL scripts designed to demonstrate various features and concepts within the Snowflake Data Cloud. The scripts utilize the "tasty_bytes" sample dataset, providing practical examples for learning and experimentation.
 
+## Table of Contents - SQL Scripts
+
+*   [Databases and Schemas.sql](./Databases%20and%20Schemas.sql)
+*   [Semi-Structured Data - Code.sql](./Semi-Structured%20Data%20-%20Code.sql)
+*   [Stages and Basic Ingestion.sql](./Stages%20and%20Basic%20Ingestion.sql)
+*   [Stages and Basic Ingestion 2.sql](./Stages%20and%20Basic%20Ingestion%202.sql)
+*   [Tables - Code.sql](./Tables%20-%20Code.sql)
+*   [Time Travel - Code.sql](./Time%20Travel%20-%20Code.sql)
+*   [Views - Code.sql](./Views%20-%20Code.sql)
+*   [Virtual Warehouses.sql](./Virtual%20Warehouses.sql)
+*   [Worksheets and a Simple Example.sql](./Worksheets%20and%20a%20Simple%20Example.sql)
+*   **Module 1**
+    *   [question 1.1.sql](./Module%201/question%201.1.sql)
+    *   [question 1.2.sql](./Module%201/question%201.2.sql)
+    *   [question 2.1.sql](./Module%201/question%202.1.sql)
+    *   [question 2.2.sql](./Module%201/question%202.2.sql)
+    *   [question 3.1.sql](./Module%201/question%203.1.sql)
+    *   [question 3.3.sql](./Module%201/question%203.3.sql)
+
 ## Repository Structure
 
 The repository is organized as follows:
